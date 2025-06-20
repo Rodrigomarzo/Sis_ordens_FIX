@@ -1,0 +1,74 @@
+﻿@page "/"
+@inject FixClient fixClient
+@using System.ComponentModel.DataAnnotations
+@using OrderGenerator.Validation
+
+<PageTitle>Gerador de Ordens</PageTitle>
+
+<h1>Gerador de Ordens</h1>
+
+<EditForm Model="@_order" OnValidSubmit="@HandleValidSubmit">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <div class="form-group">
+        <label for="symbol">Símbolo</label>
+        <InputSelect id="symbol" @bind-Value="_order.Symbol" class="form-control">
+            <option value="PETR4">PETR4</option>
+            <option value="VALE3">VALE3</option>
+            <option value="VIIA4">VIIA4</option>
+        </InputSelect>
+    </div>
+
+    <div class="form-group">
+        <label for="side">Lado</label>
+        <InputSelect id="side" @bind-Value="_order.Side" class="form-control">
+            <option value="Compra">Compra</option>
+            <option value="Venda">Venda</option>
+        </InputSelect>
+    </div>
+
+    <div class="form-group">
+        <label for="quantity">Quantidade</label>
+        <InputNumber id="quantity" @bind-Value="_order.Quantity" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label for="price">Preço</label>
+        <InputNumber id="price" @bind-Value="_order.Price" class="form-control" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Enviar Ordem</button>
+</EditForm>
+
+@if (!string.IsNullOrEmpty(_response))
+{
+    <div class="alert alert-info mt-3">
+        @_response
+    </div>
+}
+
+@code {
+    private class OrderModel
+    {
+        public string Symbol { get; set; } = "PETR4";
+        public string Side { get; set; } = "Compra";
+        [Required(ErrorMessage = "A quantidade é obrigatória.")]
+        [Range(1, 99999, ErrorMessage = "A quantidade deve ser um valor inteiro positivo menor que 100.000.")]
+        public int Quantity { get; set; }
+        [Required(ErrorMessage = "O preço é obrigatório.")]
+        [Range(0.01, 999.99, ErrorMessage = "O preço deve ser um valor positivo decimal menor que 1.000.")]
+        [DecimalPlaces(2)]
+        public decimal Price { get; set; }
+    }
+
+    private OrderModel _order = new();
+    private string _response = string.Empty;
+
+    private async Task HandleValidSubmit()
+    {
+        _response = "Enviando...";
+        var sideChar = _order.Side == "Compra" ? '1' : '2';
+        _response = await fixClient.SendOrderAsync(_order.Symbol, sideChar, _order.Quantity, _order.Price);
+    }
+}
