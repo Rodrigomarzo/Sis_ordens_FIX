@@ -1,0 +1,28 @@
+20250620-01:36:46.358 : Created session
+20250620-01:36:52.349 : FIX.4.4:OrderAccumulator->OrderGenerator Socket Reader 42018967 accepting session FIX.4.4:OrderAccumulator->OrderGenerator from 127.0.0.1:49917
+20250620-01:36:52.369 : Received logon
+20250620-01:36:52.374 : Responding to logon request; heartbeat is 30 seconds
+20250620-01:36:52.374 : MsgSeqNum too high, expecting 1 but received 56
+20250620-01:36:52.375 : Sent ResendRequest FROM: 1 TO: 0
+20250620-01:36:52.387 : ResendRequest for messages FROM: 1 TO: 0 has been satisfied.
+20250620-01:36:52.387 : Received SequenceReset FROM: 1 TO: 6
+20250620-01:36:52.394 : Received SequenceReset FROM: 7 TO: 9
+20250620-01:36:52.395 : Received SequenceReset FROM: 10 TO: 11
+20250620-01:36:52.396 : Received SequenceReset FROM: 19 TO: 20
+20250620-01:36:52.406 : Received SequenceReset FROM: 25 TO: 57
+20250620-01:40:15.460 : Created session
+20250620-01:40:20.374 : FIX.4.4:OrderAccumulator->OrderGenerator Socket Reader 42018967 accepting session FIX.4.4:OrderAccumulator->OrderGenerator from 127.0.0.1:50148
+20250620-01:40:20.379 : Received logon
+20250620-01:40:20.386 : Responding to logon request; heartbeat is 30 seconds
+20250620-01:43:37.397 : Created session
+20250620-01:43:43.495 : FIX.4.4:OrderAccumulator->OrderGenerator Socket Reader 42018967 accepting session FIX.4.4:OrderAccumulator->OrderGenerator from 127.0.0.1:50362
+20250620-01:43:43.502 : Received logon
+20250620-01:43:43.508 : Responding to logon request; heartbeat is 30 seconds
+20250620-01:52:42.243 : Created session
+20250620-01:52:46.293 : FIX.4.4:OrderAccumulator->OrderGenerator Socket Reader 4032828 accepting session FIX.4.4:OrderAccumulator->OrderGenerator from 127.0.0.1:50851
+20250620-01:52:46.298 : Received logon
+20250620-01:52:46.303 : Responding to logon request; heartbeat is 30 seconds
+20250620-01:55:22.904 : Created session
+20250620-01:55:28.598 : FIX.4.4:OrderAccumulator->OrderGenerator Socket Reader 42018967 accepting session FIX.4.4:OrderAccumulator->OrderGenerator from 127.0.0.1:50978
+20250620-01:55:28.606 : Received logon
+20250620-01:55:28.611 : Responding to logon request; heartbeat is 30 seconds

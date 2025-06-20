@@ -1,0 +1,387 @@
+20250620-01:16:40.945 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=86549=OrderGenerator52=20250620-01:16:40.91756=OrderAccumulator98=0108=3010=148
+20250620-01:16:40.962 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at System.Threading.CancellationTokenSource.get_Token()
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:16:45.962 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=86649=OrderGenerator52=20250620-01:16:45.96056=OrderAccumulator98=0108=3010=152
+20250620-01:16:45.963 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at System.Threading.CancellationTokenSource.get_Token()
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:16:51.002 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=86749=OrderGenerator52=20250620-01:16:51.00056=OrderAccumulator98=0108=3010=135
+20250620-01:16:51.002 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at System.Threading.CancellationTokenSource.get_Token()
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:16:56.032 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=86849=OrderGenerator52=20250620-01:16:56.03056=OrderAccumulator98=0108=3010=144
+20250620-01:16:56.032 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at System.Threading.CancellationTokenSource.get_Token()
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:17:01.081 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=86949=OrderGenerator52=20250620-01:17:01.07956=OrderAccumulator98=0108=3010=149
+20250620-01:17:01.081 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at System.Threading.CancellationTokenSource.get_Token()
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:17:06.137 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=87049=OrderGenerator52=20250620-01:17:06.13456=OrderAccumulator98=0108=3010=138
+20250620-01:17:06.137 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at System.Threading.CancellationTokenSource.get_Token()
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:17:11.189 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=87149=OrderGenerator52=20250620-01:17:11.18756=OrderAccumulator98=0108=3010=143
+20250620-01:17:11.190 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at System.Threading.CancellationTokenSource.get_Token()
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:17:16.243 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=87249=OrderGenerator52=20250620-01:17:16.24056=OrderAccumulator98=0108=3010=139
+20250620-01:17:16.244 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at System.Threading.CancellationTokenSource.get_Token()
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:17:21.299 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=87449=OrderGenerator52=20250620-01:17:21.29656=OrderAccumulator98=0108=3010=148
+20250620-01:17:21.300 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at System.Threading.CancellationTokenSource.get_Token()
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:17:26.361 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=87949=OrderGenerator52=20250620-01:17:26.35856=OrderAccumulator98=0108=3010=157
+20250620-01:17:26.361 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at System.Threading.CancellationTokenSource.get_Token()
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:17:31.412 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=88249=OrderGenerator52=20250620-01:17:31.40956=OrderAccumulator98=0108=3010=144
+20250620-01:17:31.412 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at System.Threading.CancellationTokenSource.get_Token()
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:17:36.480 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=88649=OrderGenerator52=20250620-01:17:36.47756=OrderAccumulator98=0108=3010=158
+20250620-01:17:36.480 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at System.Threading.CancellationTokenSource.get_Token()
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:17:41.528 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=89049=OrderGenerator52=20250620-01:17:41.52656=OrderAccumulator98=0108=3010=144
+20250620-01:17:41.529 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at System.Threading.CancellationTokenSource.get_Token()
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:17:46.581 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=89149=OrderGenerator52=20250620-01:17:46.57956=OrderAccumulator98=0108=3010=158
+20250620-01:17:46.581 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at System.Threading.CancellationTokenSource.get_Token()
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:17:51.637 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=89249=OrderGenerator52=20250620-01:17:51.63656=OrderAccumulator98=0108=3010=149
+20250620-01:17:51.637 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at System.Threading.CancellationTokenSource.get_Token()
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:17:56.688 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=89349=OrderGenerator52=20250620-01:17:56.68556=OrderAccumulator98=0108=3010=159
+20250620-01:17:56.689 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at System.Threading.CancellationTokenSource.get_Token()
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:18:01.736 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=89449=OrderGenerator52=20250620-01:18:01.73356=OrderAccumulator98=0108=3010=145
+20250620-01:18:01.737 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at System.Threading.CancellationTokenSource.get_Token()
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:18:06.778 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=89549=OrderGenerator52=20250620-01:18:06.77656=OrderAccumulator98=0108=3010=158
+20250620-01:18:06.778 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at System.Threading.CancellationTokenSource.get_Token()
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:18:11.816 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=89649=OrderGenerator52=20250620-01:18:11.81556=OrderAccumulator98=0108=3010=149
+20250620-01:18:11.817 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at System.Threading.CancellationTokenSource.get_Token()
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:18:16.853 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=89749=OrderGenerator52=20250620-01:18:16.85056=OrderAccumulator98=0108=3010=154
+20250620-01:18:16.854 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at System.Threading.CancellationTokenSource.get_Token()
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:18:21.888 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=89849=OrderGenerator52=20250620-01:18:21.88656=OrderAccumulator98=0108=3010=160
+20250620-01:18:21.889 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at System.Threading.CancellationTokenSource.get_Token()
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:18:26.927 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=90149=OrderGenerator52=20250620-01:18:26.92656=OrderAccumulator98=0108=3010=145
+20250620-01:18:26.928 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at System.Threading.CancellationTokenSource.get_Token()
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:18:31.964 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=90349=OrderGenerator52=20250620-01:18:31.96156=OrderAccumulator98=0108=3010=142
+20250620-01:18:31.964 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at System.Threading.CancellationTokenSource.get_Token()
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:18:36.980 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=90449=OrderGenerator52=20250620-01:18:36.97956=OrderAccumulator98=0108=3010=157
+20250620-01:18:36.981 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at System.Threading.CancellationTokenSource.get_Token()
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:18:42.026 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=90849=OrderGenerator52=20250620-01:18:42.02456=OrderAccumulator98=0108=3010=139
+20250620-01:18:42.027 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at System.Threading.CancellationTokenSource.get_Token()
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:18:47.071 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=91049=OrderGenerator52=20250620-01:18:47.06856=OrderAccumulator98=0108=3010=145
+20250620-01:18:47.071 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at System.Threading.CancellationTokenSource.get_Token()
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:18:52.096 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=91149=OrderGenerator52=20250620-01:18:52.09556=OrderAccumulator98=0108=3010=142
+20250620-01:18:52.096 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at System.Threading.CancellationTokenSource.get_Token()
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:18:57.145 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=91249=OrderGenerator52=20250620-01:18:57.14356=OrderAccumulator98=0108=3010=142
+20250620-01:18:57.146 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at System.Threading.CancellationTokenSource.get_Token()
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:19:02.180 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=91349=OrderGenerator52=20250620-01:19:02.17856=OrderAccumulator98=0108=3010=142
+20250620-01:19:02.180 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at System.Threading.CancellationTokenSource.get_Token()
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:19:07.235 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=91449=OrderGenerator52=20250620-01:19:07.23356=OrderAccumulator98=0108=3010=140
+20250620-01:19:07.235 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at System.Threading.CancellationTokenSource.get_Token()
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:19:12.276 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=91549=OrderGenerator52=20250620-01:19:12.27456=OrderAccumulator98=0108=3010=142
+20250620-01:19:12.276 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at System.Threading.CancellationTokenSource.get_Token()
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:19:17.297 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=91649=OrderGenerator52=20250620-01:19:17.29756=OrderAccumulator98=0108=3010=153
+20250620-01:19:17.299 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:19:22.343 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=91749=OrderGenerator52=20250620-01:19:22.34156=OrderAccumulator98=0108=3010=140
+20250620-01:19:22.343 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:19:27.368 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=91849=OrderGenerator52=20250620-01:19:27.36656=OrderAccumulator98=0108=3010=153
+20250620-01:19:27.369 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:19:32.394 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=91949=OrderGenerator52=20250620-01:19:32.39256=OrderAccumulator98=0108=3010=149
+20250620-01:19:32.394 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:19:37.413 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=92049=OrderGenerator52=20250620-01:19:37.41156=OrderAccumulator98=0108=3010=138
+20250620-01:19:37.413 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:19:42.448 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=92149=OrderGenerator52=20250620-01:19:42.44756=OrderAccumulator98=0108=3010=144
+20250620-01:19:42.448 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:19:47.492 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=92249=OrderGenerator52=20250620-01:19:47.49156=OrderAccumulator98=0108=3010=149
+20250620-01:19:47.493 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:19:52.526 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=92449=OrderGenerator52=20250620-01:19:52.52656=OrderAccumulator98=0108=3010=146
+20250620-01:19:52.527 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:19:57.566 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=92549=OrderGenerator52=20250620-01:19:57.56556=OrderAccumulator98=0108=3010=155
+20250620-01:19:57.567 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:20:02.607 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=92749=OrderGenerator52=20250620-01:20:02.60556=OrderAccumulator98=0108=3010=134
+20250620-01:20:02.607 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:20:07.651 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=93049=OrderGenerator52=20250620-01:20:07.65056=OrderAccumulator98=0108=3010=133
+20250620-01:20:07.653 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:20:12.701 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=93549=OrderGenerator52=20250620-01:20:12.70056=OrderAccumulator98=0108=3010=130
+20250620-01:20:12.701 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:20:17.730 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=93649=OrderGenerator52=20250620-01:20:17.72956=OrderAccumulator98=0108=3010=147
+20250620-01:20:17.730 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:20:22.755 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=93749=OrderGenerator52=20250620-01:20:22.75356=OrderAccumulator98=0108=3010=141
+20250620-01:20:22.755 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:20:27.790 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=93849=OrderGenerator52=20250620-01:20:27.78956=OrderAccumulator98=0108=3010=156
+20250620-01:20:27.792 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:20:32.818 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=93949=OrderGenerator52=20250620-01:20:32.81756=OrderAccumulator98=0108=3010=145
+20250620-01:20:32.818 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:20:37.846 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=94149=OrderGenerator52=20250620-01:20:37.84556=OrderAccumulator98=0108=3010=144
+20250620-01:20:37.846 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:20:42.891 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=94249=OrderGenerator52=20250620-01:20:42.89056=OrderAccumulator98=0108=3010=141
+20250620-01:20:42.892 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:20:47.915 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=94349=OrderGenerator52=20250620-01:20:47.91456=OrderAccumulator98=0108=3010=144
+20250620-01:20:47.916 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:20:52.962 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=94449=OrderGenerator52=20250620-01:20:52.96156=OrderAccumulator98=0108=3010=143
+20250620-01:20:52.963 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:20:57.986 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=94549=OrderGenerator52=20250620-01:20:57.98556=OrderAccumulator98=0108=3010=155
+20250620-01:20:57.987 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:21:03.041 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=94649=OrderGenerator52=20250620-01:21:03.04056=OrderAccumulator98=0108=3010=130
+20250620-01:21:03.041 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:21:08.079 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=94749=OrderGenerator52=20250620-01:21:08.07756=OrderAccumulator98=0108=3010=146
+20250620-01:21:08.081 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:21:13.161 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=94849=OrderGenerator52=20250620-01:21:13.15456=OrderAccumulator98=0108=3010=139
+20250620-01:21:13.161 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:21:18.453 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=94949=OrderGenerator52=20250620-01:21:18.44756=OrderAccumulator98=0108=3010=150
+20250620-01:21:18.454 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:21:23.491 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=95049=OrderGenerator52=20250620-01:21:23.48456=OrderAccumulator98=0108=3010=139
+20250620-01:21:23.493 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:21:28.522 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=95149=OrderGenerator52=20250620-01:21:28.52056=OrderAccumulator98=0108=3010=136
+20250620-01:21:28.522 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:21:33.564 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=95249=OrderGenerator52=20250620-01:21:33.56256=OrderAccumulator98=0108=3010=139
+20250620-01:21:33.565 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:21:38.601 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=95349=OrderGenerator52=20250620-01:21:38.59956=OrderAccumulator98=0108=3010=155
+20250620-01:21:38.602 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:21:43.621 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=95449=OrderGenerator52=20250620-01:21:43.61956=OrderAccumulator98=0108=3010=145
+20250620-01:21:43.622 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:21:48.661 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=95549=OrderGenerator52=20250620-01:21:48.65856=OrderAccumulator98=0108=3010=154
+20250620-01:21:48.661 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:21:53.689 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=95649=OrderGenerator52=20250620-01:21:53.68856=OrderAccumulator98=0108=3010=154
+20250620-01:21:53.689 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:21:58.709 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=95749=OrderGenerator52=20250620-01:21:58.70856=OrderAccumulator98=0108=3010=153
+20250620-01:21:58.710 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:22:03.750 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=95849=OrderGenerator52=20250620-01:22:03.74956=OrderAccumulator98=0108=3010=150
+20250620-01:22:03.750 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:22:08.781 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=95949=OrderGenerator52=20250620-01:22:08.77956=OrderAccumulator98=0108=3010=159
+20250620-01:22:08.782 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:22:13.802 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=96049=OrderGenerator52=20250620-01:22:13.80156=OrderAccumulator98=0108=3010=133
+20250620-01:22:13.802 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:22:18.870 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=96149=OrderGenerator52=20250620-01:22:18.86956=OrderAccumulator98=0108=3010=153
+20250620-01:22:18.870 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:22:23.907 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=96249=OrderGenerator52=20250620-01:22:23.90556=OrderAccumulator98=0108=3010=141
+20250620-01:22:23.907 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:22:28.940 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=96349=OrderGenerator52=20250620-01:22:28.93956=OrderAccumulator98=0108=3010=154
+20250620-01:22:28.941 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:22:33.976 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=96449=OrderGenerator52=20250620-01:22:33.97556=OrderAccumulator98=0108=3010=151
+20250620-01:22:33.977 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:22:39.016 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=96549=OrderGenerator52=20250620-01:22:39.01556=OrderAccumulator98=0108=3010=143
+20250620-01:22:39.017 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:22:44.056 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=96649=OrderGenerator52=20250620-01:22:44.05556=OrderAccumulator98=0108=3010=144
+20250620-01:22:44.057 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:22:49.099 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=96749=OrderGenerator52=20250620-01:22:49.09856=OrderAccumulator98=0108=3010=157
+20250620-01:22:49.100 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:22:54.140 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=96849=OrderGenerator52=20250620-01:22:54.13956=OrderAccumulator98=0108=3010=150
+20250620-01:22:54.141 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:22:59.156 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=96949=OrderGenerator52=20250620-01:22:59.15556=OrderAccumulator98=0108=3010=154
+20250620-01:22:59.156 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:23:04.203 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=97049=OrderGenerator52=20250620-01:23:04.20256=OrderAccumulator98=0108=3010=130
+20250620-01:23:04.203 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:23:09.257 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=97149=OrderGenerator52=20250620-01:23:09.25656=OrderAccumulator98=0108=3010=145
+20250620-01:23:09.257 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:23:14.278 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=97249=OrderGenerator52=20250620-01:23:14.27756=OrderAccumulator98=0108=3010=145
+20250620-01:23:14.279 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:23:19.336 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=97349=OrderGenerator52=20250620-01:23:19.33556=OrderAccumulator98=0108=3010=146
+20250620-01:23:19.336 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:23:24.373 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=97449=OrderGenerator52=20250620-01:23:24.37256=OrderAccumulator98=0108=3010=144
+20250620-01:23:24.375 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:23:29.408 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=97549=OrderGenerator52=20250620-01:23:29.40656=OrderAccumulator98=0108=3010=148
+20250620-01:23:29.408 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:23:34.451 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=97649=OrderGenerator52=20250620-01:23:34.44956=OrderAccumulator98=0108=3010=152
+20250620-01:23:34.451 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:23:39.474 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=97749=OrderGenerator52=20250620-01:23:39.47356=OrderAccumulator98=0108=3010=155
+20250620-01:23:39.475 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:23:44.514 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=97849=OrderGenerator52=20250620-01:23:44.51356=OrderAccumulator98=0108=3010=147
+20250620-01:23:44.514 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:23:49.535 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=97949=OrderGenerator52=20250620-01:23:49.53456=OrderAccumulator98=0108=3010=156
+20250620-01:23:49.535 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:23:54.564 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=98049=OrderGenerator52=20250620-01:23:54.56356=OrderAccumulator98=0108=3010=146
+20250620-01:23:54.564 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:23:59.622 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=98149=OrderGenerator52=20250620-01:23:59.62056=OrderAccumulator98=0108=3010=146
+20250620-01:23:59.622 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20250620-01:24:04.646 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=8735=A34=98249=OrderGenerator52=20250620-01:24:04.64556=OrderAccumulator98=0108=3010=145
+20250620-01:24:04.646 : SocketReader Error: System.ObjectDisposedException: The CancellationTokenSource has been disposed.
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()

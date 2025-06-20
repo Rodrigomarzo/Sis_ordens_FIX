@@ -1,0 +1,369 @@
+20250620-01:32:11.265 : Created session
+20250620-01:32:11.275 : Connecting to 127.0.0.1 on port 5001
+20250620-01:32:11.294 : Connection succeeded
+20250620-01:32:11.308 : Initiated logon request
+20250620-01:32:11.324 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: System.Net.Sockets.SocketException (10058): Uma solicitação de envio ou recebimento de dados não foi permitida porque o soquete já tinha sido desligado naquela direção com uma chamada de desligamento anterior.
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20250620-01:32:16.315 : Connecting to 127.0.0.1 on port 5001
+20250620-01:32:16.317 : Connection succeeded
+20250620-01:32:16.317 : Initiated logon request
+20250620-01:32:16.320 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: System.Net.Sockets.SocketException (10058): Uma solicitação de envio ou recebimento de dados não foi permitida porque o soquete já tinha sido desligado naquela direção com uma chamada de desligamento anterior.
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20250620-01:32:21.349 : Connecting to 127.0.0.1 on port 5001
+20250620-01:32:21.353 : Connection succeeded
+20250620-01:32:21.354 : Initiated logon request
+20250620-01:32:21.358 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: System.Net.Sockets.SocketException (10058): Uma solicitação de envio ou recebimento de dados não foi permitida porque o soquete já tinha sido desligado naquela direção com uma chamada de desligamento anterior.
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20250620-01:32:26.372 : Connecting to 127.0.0.1 on port 5001
+20250620-01:32:26.376 : Connection succeeded
+20250620-01:32:26.382 : Initiated logon request
+20250620-01:32:26.383 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: System.Net.Sockets.SocketException (10058): Uma solicitação de envio ou recebimento de dados não foi permitida porque o soquete já tinha sido desligado naquela direção com uma chamada de desligamento anterior.
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20250620-01:32:31.409 : Connecting to 127.0.0.1 on port 5001
+20250620-01:32:31.411 : Connection succeeded
+20250620-01:32:31.411 : Initiated logon request
+20250620-01:32:31.413 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: System.Net.Sockets.SocketException (10058): Uma solicitação de envio ou recebimento de dados não foi permitida porque o soquete já tinha sido desligado naquela direção com uma chamada de desligamento anterior.
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20250620-01:32:36.443 : Connecting to 127.0.0.1 on port 5001
+20250620-01:32:36.447 : Connection succeeded
+20250620-01:32:36.447 : Initiated logon request
+20250620-01:32:36.449 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: System.Net.Sockets.SocketException (10058): Uma solicitação de envio ou recebimento de dados não foi permitida porque o soquete já tinha sido desligado naquela direção com uma chamada de desligamento anterior.
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20250620-01:32:41.483 : Connecting to 127.0.0.1 on port 5001
+20250620-01:32:41.485 : Connection succeeded
+20250620-01:32:41.486 : Initiated logon request
+20250620-01:32:41.488 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: System.Net.Sockets.SocketException (10058): Uma solicitação de envio ou recebimento de dados não foi permitida porque o soquete já tinha sido desligado naquela direção com uma chamada de desligamento anterior.
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20250620-01:32:46.520 : Connecting to 127.0.0.1 on port 5001
+20250620-01:32:46.523 : Connection succeeded
+20250620-01:32:46.524 : Initiated logon request
+20250620-01:32:46.525 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: System.Net.Sockets.SocketException (10058): Uma solicitação de envio ou recebimento de dados não foi permitida porque o soquete já tinha sido desligado naquela direção com uma chamada de desligamento anterior.
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20250620-01:32:51.565 : Connecting to 127.0.0.1 on port 5001
+20250620-01:32:51.568 : Connection succeeded
+20250620-01:32:51.568 : Initiated logon request
+20250620-01:32:51.571 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: System.Net.Sockets.SocketException (10058): Uma solicitação de envio ou recebimento de dados não foi permitida porque o soquete já tinha sido desligado naquela direção com uma chamada de desligamento anterior.
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20250620-01:32:56.589 : Connecting to 127.0.0.1 on port 5001
+20250620-01:32:56.591 : Connection succeeded
+20250620-01:32:56.591 : Initiated logon request
+20250620-01:32:56.594 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: System.Net.Sockets.SocketException (10058): Uma solicitação de envio ou recebimento de dados não foi permitida porque o soquete já tinha sido desligado naquela direção com uma chamada de desligamento anterior.
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20250620-01:33:01.626 : Connecting to 127.0.0.1 on port 5001
+20250620-01:33:01.629 : Connection succeeded
+20250620-01:33:01.630 : Initiated logon request
+20250620-01:33:01.632 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: System.Net.Sockets.SocketException (10058): Uma solicitação de envio ou recebimento de dados não foi permitida porque o soquete já tinha sido desligado naquela direção com uma chamada de desligamento anterior.
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20250620-01:33:06.651 : Connecting to 127.0.0.1 on port 5001
+20250620-01:33:06.653 : Connection succeeded
+20250620-01:33:06.654 : Initiated logon request
+20250620-01:33:06.656 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: System.Net.Sockets.SocketException (10058): Uma solicitação de envio ou recebimento de dados não foi permitida porque o soquete já tinha sido desligado naquela direção com uma chamada de desligamento anterior.
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20250620-01:33:11.674 : Connecting to 127.0.0.1 on port 5001
+20250620-01:33:11.677 : Connection succeeded
+20250620-01:33:11.678 : Initiated logon request
+20250620-01:33:11.681 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: System.Net.Sockets.SocketException (10058): Uma solicitação de envio ou recebimento de dados não foi permitida porque o soquete já tinha sido desligado naquela direção com uma chamada de desligamento anterior.
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20250620-01:33:16.709 : Connecting to 127.0.0.1 on port 5001
+20250620-01:33:16.713 : Connection succeeded
+20250620-01:33:16.713 : Initiated logon request
+20250620-01:33:16.716 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: System.Net.Sockets.SocketException (10058): Uma solicitação de envio ou recebimento de dados não foi permitida porque o soquete já tinha sido desligado naquela direção com uma chamada de desligamento anterior.
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20250620-01:33:21.741 : Connecting to 127.0.0.1 on port 5001
+20250620-01:33:21.750 : Connection succeeded
+20250620-01:33:21.751 : Initiated logon request
+20250620-01:33:21.752 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: System.Net.Sockets.SocketException (10058): Uma solicitação de envio ou recebimento de dados não foi permitida porque o soquete já tinha sido desligado naquela direção com uma chamada de desligamento anterior.
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20250620-01:33:26.788 : Connecting to 127.0.0.1 on port 5001
+20250620-01:33:26.790 : Connection succeeded
+20250620-01:33:26.791 : Initiated logon request
+20250620-01:33:26.793 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: System.Net.Sockets.SocketException (10058): Uma solicitação de envio ou recebimento de dados não foi permitida porque o soquete já tinha sido desligado naquela direção com uma chamada de desligamento anterior.
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20250620-01:33:31.846 : Connecting to 127.0.0.1 on port 5001
+20250620-01:33:31.850 : Connection succeeded
+20250620-01:33:31.850 : Initiated logon request
+20250620-01:33:31.854 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: System.Net.Sockets.SocketException (10058): Uma solicitação de envio ou recebimento de dados não foi permitida porque o soquete já tinha sido desligado naquela direção com uma chamada de desligamento anterior.
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20250620-01:33:36.923 : Connecting to 127.0.0.1 on port 5001
+20250620-01:33:36.925 : Connection succeeded
+20250620-01:33:36.925 : Initiated logon request
+20250620-01:33:36.928 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: System.Net.Sockets.SocketException (10058): Uma solicitação de envio ou recebimento de dados não foi permitida porque o soquete já tinha sido desligado naquela direção com uma chamada de desligamento anterior.
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20250620-01:33:41.963 : Connecting to 127.0.0.1 on port 5001
+20250620-01:33:41.966 : Connection succeeded
+20250620-01:33:41.966 : Initiated logon request
+20250620-01:33:41.970 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: System.Net.Sockets.SocketException (10058): Uma solicitação de envio ou recebimento de dados não foi permitida porque o soquete já tinha sido desligado naquela direção com uma chamada de desligamento anterior.
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20250620-01:33:46.986 : Connecting to 127.0.0.1 on port 5001
+20250620-01:33:46.988 : Connection succeeded
+20250620-01:33:46.988 : Initiated logon request
+20250620-01:33:46.990 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: System.Net.Sockets.SocketException (10058): Uma solicitação de envio ou recebimento de dados não foi permitida porque o soquete já tinha sido desligado naquela direção com uma chamada de desligamento anterior.
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20250620-01:33:52.035 : Connecting to 127.0.0.1 on port 5001
+20250620-01:33:52.038 : Connection succeeded
+20250620-01:33:52.038 : Initiated logon request
+20250620-01:33:52.041 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: System.Net.Sockets.SocketException (10058): Uma solicitação de envio ou recebimento de dados não foi permitida porque o soquete já tinha sido desligado naquela direção com uma chamada de desligamento anterior.
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20250620-01:33:57.062 : Connecting to 127.0.0.1 on port 5001
+20250620-01:33:57.064 : Connection succeeded
+20250620-01:33:57.064 : Initiated logon request
+20250620-01:33:57.067 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: System.Net.Sockets.SocketException (10058): Uma solicitação de envio ou recebimento de dados não foi permitida porque o soquete já tinha sido desligado naquela direção com uma chamada de desligamento anterior.
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20250620-01:34:02.090 : Connecting to 127.0.0.1 on port 5001
+20250620-01:34:02.092 : Connection succeeded
+20250620-01:34:02.092 : Initiated logon request
+20250620-01:34:02.095 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: System.Net.Sockets.SocketException (10058): Uma solicitação de envio ou recebimento de dados não foi permitida porque o soquete já tinha sido desligado naquela direção com uma chamada de desligamento anterior.
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20250620-01:34:07.141 : Connecting to 127.0.0.1 on port 5001
+20250620-01:34:07.144 : Connection succeeded
+20250620-01:34:07.145 : Initiated logon request
+20250620-01:34:07.147 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: System.Net.Sockets.SocketException (10058): Uma solicitação de envio ou recebimento de dados não foi permitida porque o soquete já tinha sido desligado naquela direção com uma chamada de desligamento anterior.
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20250620-01:34:12.168 : Connecting to 127.0.0.1 on port 5001
+20250620-01:34:12.170 : Connection succeeded
+20250620-01:34:12.171 : Initiated logon request
+20250620-01:34:12.173 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: System.Net.Sockets.SocketException (10058): Uma solicitação de envio ou recebimento de dados não foi permitida porque o soquete já tinha sido desligado naquela direção com uma chamada de desligamento anterior.
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20250620-01:34:53.971 : Created session
+20250620-01:34:53.990 : Connecting to 127.0.0.1 on port 5001
+20250620-01:34:54.025 : Connection succeeded
+20250620-01:34:54.046 : Initiated logon request
+20250620-01:34:54.070 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: System.Net.Sockets.SocketException (10058): Uma solicitação de envio ou recebimento de dados não foi permitida porque o soquete já tinha sido desligado naquela direção com uma chamada de desligamento anterior.
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20250620-01:34:59.039 : Connecting to 127.0.0.1 on port 5001
+20250620-01:34:59.041 : Connection succeeded
+20250620-01:34:59.041 : Initiated logon request
+20250620-01:34:59.044 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: System.Net.Sockets.SocketException (10058): Uma solicitação de envio ou recebimento de dados não foi permitida porque o soquete já tinha sido desligado naquela direção com uma chamada de desligamento anterior.
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20250620-01:35:04.077 : Connecting to 127.0.0.1 on port 5001
+20250620-01:35:04.079 : Connection succeeded
+20250620-01:35:04.080 : Initiated logon request
+20250620-01:35:04.081 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: System.Net.Sockets.SocketException (10058): Uma solicitação de envio ou recebimento de dados não foi permitida porque o soquete já tinha sido desligado naquela direção com uma chamada de desligamento anterior.
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20250620-01:35:09.105 : Connecting to 127.0.0.1 on port 5001
+20250620-01:35:09.108 : Connection succeeded
+20250620-01:35:09.108 : Initiated logon request
+20250620-01:35:09.111 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: System.Net.Sockets.SocketException (10058): Uma solicitação de envio ou recebimento de dados não foi permitida porque o soquete já tinha sido desligado naquela direção com uma chamada de desligamento anterior.
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20250620-01:35:14.151 : Connecting to 127.0.0.1 on port 5001
+20250620-01:35:14.154 : Connection succeeded
+20250620-01:35:14.154 : Initiated logon request
+20250620-01:35:14.161 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: System.Net.Sockets.SocketException (10058): Uma solicitação de envio ou recebimento de dados não foi permitida porque o soquete já tinha sido desligado naquela direção com uma chamada de desligamento anterior.
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20250620-01:35:19.189 : Connecting to 127.0.0.1 on port 5001
+20250620-01:35:19.192 : Connection succeeded
+20250620-01:35:19.192 : Initiated logon request
+20250620-01:35:19.196 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: System.Net.Sockets.SocketException (10058): Uma solicitação de envio ou recebimento de dados não foi permitida porque o soquete já tinha sido desligado naquela direção com uma chamada de desligamento anterior.
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20250620-01:35:24.232 : Connecting to 127.0.0.1 on port 5001
+20250620-01:35:24.235 : Connection succeeded
+20250620-01:35:24.235 : Initiated logon request
+20250620-01:35:24.238 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: System.Net.Sockets.SocketException (10058): Uma solicitação de envio ou recebimento de dados não foi permitida porque o soquete já tinha sido desligado naquela direção com uma chamada de desligamento anterior.
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20250620-01:35:29.267 : Connecting to 127.0.0.1 on port 5001
+20250620-01:35:29.269 : Connection succeeded
+20250620-01:35:29.269 : Initiated logon request
+20250620-01:35:29.272 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: System.Net.Sockets.SocketException (10058): Uma solicitação de envio ou recebimento de dados não foi permitida porque o soquete já tinha sido desligado naquela direção com uma chamada de desligamento anterior.
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20250620-01:35:34.283 : Connecting to 127.0.0.1 on port 5001
+20250620-01:35:34.286 : Connection succeeded
+20250620-01:35:34.286 : Initiated logon request
+20250620-01:35:34.289 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: System.Net.Sockets.SocketException (10058): Uma solicitação de envio ou recebimento de dados não foi permitida porque o soquete já tinha sido desligado naquela direção com uma chamada de desligamento anterior.
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20250620-01:35:39.309 : Connecting to 127.0.0.1 on port 5001
+20250620-01:35:39.311 : Connection succeeded
+20250620-01:35:39.311 : Initiated logon request
+20250620-01:35:39.314 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: System.Net.Sockets.SocketException (10058): Uma solicitação de envio ou recebimento de dados não foi permitida porque o soquete já tinha sido desligado naquela direção com uma chamada de desligamento anterior.
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20250620-01:35:44.351 : Connecting to 127.0.0.1 on port 5001
+20250620-01:35:44.353 : Connection succeeded
+20250620-01:35:44.353 : Initiated logon request
+20250620-01:35:44.355 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: System.Net.Sockets.SocketException (10058): Uma solicitação de envio ou recebimento de dados não foi permitida porque o soquete já tinha sido desligado naquela direção com uma chamada de desligamento anterior.
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20250620-01:35:49.404 : Connecting to 127.0.0.1 on port 5001
+20250620-01:35:49.406 : Connection succeeded
+20250620-01:35:49.406 : Initiated logon request
+20250620-01:35:49.408 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: System.Net.Sockets.SocketException (10058): Uma solicitação de envio ou recebimento de dados não foi permitida porque o soquete já tinha sido desligado naquela direção com uma chamada de desligamento anterior.
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20250620-01:35:54.443 : Connecting to 127.0.0.1 on port 5001
+20250620-01:35:54.445 : Connection succeeded
+20250620-01:35:54.445 : Initiated logon request
+20250620-01:35:54.448 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: System.Net.Sockets.SocketException (10058): Uma solicitação de envio ou recebimento de dados não foi permitida porque o soquete já tinha sido desligado naquela direção com uma chamada de desligamento anterior.
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20250620-01:35:59.481 : Connecting to 127.0.0.1 on port 5001
+20250620-01:35:59.484 : Connection succeeded
+20250620-01:35:59.484 : Initiated logon request
+20250620-01:35:59.487 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: System.Net.Sockets.SocketException (10058): Uma solicitação de envio ou recebimento de dados não foi permitida porque o soquete já tinha sido desligado naquela direção com uma chamada de desligamento anterior.
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20250620-01:36:04.505 : Connecting to 127.0.0.1 on port 5001
+20250620-01:36:04.507 : Connection succeeded
+20250620-01:36:04.507 : Initiated logon request
+20250620-01:36:04.509 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: System.Net.Sockets.SocketException (10058): Uma solicitação de envio ou recebimento de dados não foi permitida porque o soquete já tinha sido desligado naquela direção com uma chamada de desligamento anterior.
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20250620-01:36:52.291 : Created session
+20250620-01:36:52.303 : Connecting to 127.0.0.1 on port 5001
+20250620-01:36:52.321 : Connection succeeded
+20250620-01:36:52.332 : Initiated logon request
+20250620-01:36:52.380 : Received logon
+20250620-01:36:52.382 : Got resend request from 1 to 0
+20250620-01:36:52.385 : Sent SequenceReset TO: 6
+20250620-01:36:52.386 : Sent SequenceReset TO: 9
+20250620-01:36:52.386 : Sent SequenceReset TO: 11
+20250620-01:36:52.386 : Sent SequenceReset TO: 20
+20250620-01:36:52.387 : Sent SequenceReset TO: 57
+20250620-01:39:53.153 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: System.Net.Sockets.SocketException (10054): Foi forçado o cancelamento de uma conexão existente pelo host remoto.
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20250620-01:39:53.418 : Connecting to 127.0.0.1 on port 5001
+20250620-01:39:55.473 : Connection failed: System.Net.Sockets.SocketException (10061): Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:5001
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at QuickFix.Transport.StreamFactory.CreateClientStream(IPEndPoint endpoint, SocketSettings settings, NonSessionLog nonSessionLog)
+   at QuickFix.SocketInitiatorThread.SetupStream()
+   at QuickFix.SocketInitiatorThread.Connect()
+   at QuickFix.Transport.SocketInitiator.SocketInitiatorThreadStart(Object socketInitiatorThread)
+20250620-01:40:20.306 : Created session
+20250620-01:40:20.316 : Connecting to 127.0.0.1 on port 5001
+20250620-01:40:20.339 : Connection succeeded
+20250620-01:40:20.358 : Initiated logon request
+20250620-01:40:20.392 : Received logon
+20250620-01:42:42.944 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: System.Net.Sockets.SocketException (10054): Foi forçado o cancelamento de uma conexão existente pelo host remoto.
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20250620-01:42:46.207 : Connecting to 127.0.0.1 on port 5001
+20250620-01:42:48.254 : Connection failed: System.Net.Sockets.SocketException (10061): Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:5001
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at QuickFix.Transport.StreamFactory.CreateClientStream(IPEndPoint endpoint, SocketSettings settings, NonSessionLog nonSessionLog)
+   at QuickFix.SocketInitiatorThread.SetupStream()
+   at QuickFix.SocketInitiatorThread.Connect()
+   at QuickFix.Transport.SocketInitiator.SocketInitiatorThreadStart(Object socketInitiatorThread)
+20250620-01:43:43.404 : Created session
+20250620-01:43:43.416 : Connecting to 127.0.0.1 on port 5001
+20250620-01:43:43.442 : Connection succeeded
+20250620-01:43:43.466 : Initiated logon request
+20250620-01:43:43.517 : Received logon
+20250620-01:48:40.035 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: System.Net.Sockets.SocketException (10054): Foi forçado o cancelamento de uma conexão existente pelo host remoto.
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20250620-01:48:40.169 : Connecting to 127.0.0.1 on port 5001
+20250620-01:48:42.212 : Connection failed: System.Net.Sockets.SocketException (10061): Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:5001
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at QuickFix.Transport.StreamFactory.CreateClientStream(IPEndPoint endpoint, SocketSettings settings, NonSessionLog nonSessionLog)
+   at QuickFix.SocketInitiatorThread.SetupStream()
+   at QuickFix.SocketInitiatorThread.Connect()
+   at QuickFix.Transport.SocketInitiator.SocketInitiatorThreadStart(Object socketInitiatorThread)
+20250620-01:48:45.199 : Connecting to 127.0.0.1 on port 5001
+20250620-01:52:46.224 : Created session
+20250620-01:52:46.243 : Connecting to 127.0.0.1 on port 5001
+20250620-01:52:46.262 : Connection succeeded
+20250620-01:52:46.278 : Initiated logon request
+20250620-01:52:46.310 : Received logon
+20250620-01:55:07.006 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: System.Net.Sockets.SocketException (10054): Foi forçado o cancelamento de uma conexão existente pelo host remoto.
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20250620-01:55:07.164 : Connecting to 127.0.0.1 on port 5001
+20250620-01:55:09.199 : Connection failed: System.Net.Sockets.SocketException (10061): Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:5001
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at QuickFix.Transport.StreamFactory.CreateClientStream(IPEndPoint endpoint, SocketSettings settings, NonSessionLog nonSessionLog)
+   at QuickFix.SocketInitiatorThread.SetupStream()
+   at QuickFix.SocketInitiatorThread.Connect()
+   at QuickFix.Transport.SocketInitiator.SocketInitiatorThreadStart(Object socketInitiatorThread)
+20250620-01:55:28.539 : Created session
+20250620-01:55:28.552 : Connecting to 127.0.0.1 on port 5001
+20250620-01:55:28.569 : Connection succeeded
+20250620-01:55:28.583 : Initiated logon request
+20250620-01:55:28.621 : Received logon
+20250620-02:00:46.427 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: System.Net.Sockets.SocketException (10054): Foi forçado o cancelamento de uma conexão existente pelo host remoto.
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20250620-02:00:50.562 : Connecting to 127.0.0.1 on port 5001
+20250620-02:00:52.620 : Connection failed: System.Net.Sockets.SocketException (10061): Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:5001
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at QuickFix.Transport.StreamFactory.CreateClientStream(IPEndPoint endpoint, SocketSettings settings, NonSessionLog nonSessionLog)
+   at QuickFix.SocketInitiatorThread.SetupStream()
+   at QuickFix.SocketInitiatorThread.Connect()
+   at QuickFix.Transport.SocketInitiator.SocketInitiatorThreadStart(Object socketInitiatorThread)
+20250620-02:00:55.627 : Connecting to 127.0.0.1 on port 5001
+20250620-02:00:57.666 : Connection failed: System.Net.Sockets.SocketException (10061): Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:5001
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at QuickFix.Transport.StreamFactory.CreateClientStream(IPEndPoint endpoint, SocketSettings settings, NonSessionLog nonSessionLog)
+   at QuickFix.SocketInitiatorThread.SetupStream()
+   at QuickFix.SocketInitiatorThread.Connect()
+   at QuickFix.Transport.SocketInitiator.SocketInitiatorThreadStart(Object socketInitiatorThread)
+20250620-02:01:00.649 : Connecting to 127.0.0.1 on port 5001
+20250620-02:01:02.682 : Connection failed: System.Net.Sockets.SocketException (10061): Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:5001
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at QuickFix.Transport.StreamFactory.CreateClientStream(IPEndPoint endpoint, SocketSettings settings, NonSessionLog nonSessionLog)
+   at QuickFix.SocketInitiatorThread.SetupStream()
+   at QuickFix.SocketInitiatorThread.Connect()
+   at QuickFix.Transport.SocketInitiator.SocketInitiatorThreadStart(Object socketInitiatorThread)
+20250620-02:01:05.686 : Connecting to 127.0.0.1 on port 5001
+20250620-02:01:07.725 : Connection failed: System.Net.Sockets.SocketException (10061): Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:5001
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at QuickFix.Transport.StreamFactory.CreateClientStream(IPEndPoint endpoint, SocketSettings settings, NonSessionLog nonSessionLog)
+   at QuickFix.SocketInitiatorThread.SetupStream()
+   at QuickFix.SocketInitiatorThread.Connect()
+   at QuickFix.Transport.SocketInitiator.SocketInitiatorThreadStart(Object socketInitiatorThread)
+20250620-02:01:10.721 : Connecting to 127.0.0.1 on port 5001
+20250620-02:01:12.761 : Connection failed: System.Net.Sockets.SocketException (10061): Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:5001
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at QuickFix.Transport.StreamFactory.CreateClientStream(IPEndPoint endpoint, SocketSettings settings, NonSessionLog nonSessionLog)
+   at QuickFix.SocketInitiatorThread.SetupStream()
+   at QuickFix.SocketInitiatorThread.Connect()
+   at QuickFix.Transport.SocketInitiator.SocketInitiatorThreadStart(Object socketInitiatorThread)
+20250620-02:01:15.750 : Connecting to 127.0.0.1 on port 5001
+20250620-02:01:17.792 : Connection failed: System.Net.Sockets.SocketException (10061): Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:5001
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at QuickFix.Transport.StreamFactory.CreateClientStream(IPEndPoint endpoint, SocketSettings settings, NonSessionLog nonSessionLog)
+   at QuickFix.SocketInitiatorThread.SetupStream()
+   at QuickFix.SocketInitiatorThread.Connect()
+   at QuickFix.Transport.SocketInitiator.SocketInitiatorThreadStart(Object socketInitiatorThread)
